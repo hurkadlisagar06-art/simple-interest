@@ -10,4 +10,4 @@ print("Simple interest is:",si)
 
 
 amount = p * (1 + r / (100 * n)) ** (n * t)
-compound_interest = amount - p 
+compound_interest = amount - p
